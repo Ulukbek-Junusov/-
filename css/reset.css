@@ -1,0 +1,25 @@
+body,
+html,
+h1,
+p,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+}
+ul,
+ol {
+  list-style: none;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
